@@ -1,2 +1,8 @@
 site name: GES team of NCEPU
 author: Wenxuan Tong
+
+search:
+  enabled: true
+  engine: lunr  # or algolia
+  # other configs
+
